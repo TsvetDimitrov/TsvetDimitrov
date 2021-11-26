@@ -1,6 +1,5 @@
 ### Hi, i am Tsvetomir Dimitrov👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TsvetDimitrov)
-[![Years Badge](https://badges.pufler.dev/years/TsvetDimitrov)](https://badges.pufler.dev)
 
 
 🎓💻 Bachelor of Information Technology in process...
