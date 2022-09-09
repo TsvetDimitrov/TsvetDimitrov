@@ -2,10 +2,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TsvetDimitrov)
 
 
-🎓💻 Bachelor of Information Technology in process...
+🎓💻 Masters of Information Technology in process...
 
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning SFRA.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dimitrovv32@gmail.com
 - 😄 Pronouns: He/Him
