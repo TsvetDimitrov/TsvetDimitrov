@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TsvetDimitrov)
 
 
-🎓💻 Masters of Information Technology in process...
+🎓💻 Masters of Computer Science in process...
 
 
 - 🌱 I’m currently learning SFRA.
