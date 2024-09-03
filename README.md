@@ -2,10 +2,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TsvetDimitrov)
 
 
-🎓💻 Masters of Computer Science in process...
+🎓💻 Masters of Computer Science in progress...
 
 
-- 🌱 I’m currently learning SFRA.
+- 🌱 I’m currently learning SFRA and PWA kit.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dimitrovv32@gmail.com
 - 😄 Pronouns: He/Him
