@@ -1,5 +1,5 @@
 ### Hi, i am Tsvetomir Dimitrov👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TsvetDimitrov)
+![](https://api.visitorbadge.io/api/VisitorHit?user=TsvetDimitrov)
 
 
 🎓💻 Masters of Computer Science in progress...
