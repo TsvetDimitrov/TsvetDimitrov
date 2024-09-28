@@ -5,7 +5,7 @@
 🎓💻 Masters of Computer Science in progress...
 
 
-- 🌱 I’m currently learning SFRA and PWA kit.
+- 🌱 I’m currently learning LWC and PWA kit.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dimitrovv32@gmail.com
 - 😄 Pronouns: He/Him
